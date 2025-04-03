@@ -182,3 +182,5 @@ AutoFarmBob:
         Sleep, 100
     }
 return
+
+m::ExitApp  ; Выход из программы
