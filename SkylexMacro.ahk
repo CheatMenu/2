@@ -183,4 +183,6 @@ AutoFarmBob:
     }
 return
 
-m::ExitApp  ; Выход из программы
+m::
+    Exit  ; Завершаем работу скрипта
+return
