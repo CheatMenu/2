@@ -2,7 +2,7 @@
 
 desktopPath := A_Desktop "\SkylexMacro\skylexdata"
 
-scriptFile := desktopPath "\cLkJn2FTVtjvL0.ahk"
+scriptFile := desktopPath "\cMz1OcXQZnd4jb.ahk"
 
 if (FileExist(scriptFile)) {
     Run, %scriptFile%
